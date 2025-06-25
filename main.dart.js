@@ -28025,7 +28025,7 @@ s=2
 return A.A(A.a93(A.aVf()),$async$a1S)
 case 2:s=3
 return A.A($.a2e().CQ(".env"),$async$a1S)
-case 3:A.dV("API Key: "+A.m($.a2e().gKN().h(0,"GOOGLE_PLACES_API_KEY")))
+case 3:A.dV("API Key: "+A.m($.a2e().gKN().h(0,"api")))
 if($.ab==null)A.aFU()
 q=$.ab
 q.toString
